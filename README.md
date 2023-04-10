@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 ![Music I listen to](https://spotify-recently-played-readme.vercel.app/api?user=bvfm69117wdtcjqyg21t5pqhr)
 
