@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Helio
 ![I am a student at Case Western Reserve University](./github-header-image-2.png)
 
-I kinda fly alot lol:\
-Flights I've taken in 2023\
+#### I kinda fly alot lol 🛫
+Flights I've taken in 2023:\
 <a href="https://my.flightradar24.com/lxd262"><img src="https://banners-my.flightradar24.com/lxd262.png" alt="My Flightdiary.net profile" /></a>\
 Future flights:\
 <a href="https://my.flightradar24.com/lxd262"><img src="https://banners-my.flightradar24.com/lxd262-future.png" alt="My Future Flights" /></a>
