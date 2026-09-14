@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learn+Teach+Dream!;Hello+I+am+Helio&center=true&size=30&color=4169E1&background=FFFFFFFF">
 </h1>
 
-I'm a student at **Northwestern University** with a passion for CS Education. I currently teach two 5th Grade CS Classes at Evanston/Skokie School District 65. Teaching makes me happy and I'm glad to share my CS experience with my 5th Grade Students! Apart from CS, I am currently training for a triathlon, working on my inner peace, and exploring my enthusiasm in Aviation.
+Hello I am helio
 
 ## ✈️ My Aviation Stats & Facts ✈️
 
