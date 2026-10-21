@@ -1,0 +1,3 @@
+# Flighty exports contain booking codes and seat details; keep them out of the public repo
+FlightyExport*.csv
+__pycache__/
