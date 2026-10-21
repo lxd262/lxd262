@@ -12,7 +12,7 @@ Hello I am helio
 
 | Category | Details |
 |----------|---------|
-| 🌎 **Current Base** | ORD/MDW (Chicago) |
+| 🌎 **Current Base** | EWR (Northern NJ) |
 | 🏠 **Home Airports** | PVG/SHA (Shanghai) |
 | ⚡ **Shortest Flight** | <img src="https://img.icons8.com/color/48/000000/delta-airlines.png" height="20"/> DL 5244 DTW-CLE |
 | 🛫 **Longest Flight** | <img src="https://img.icons8.com/color/48/000000/united-airlines.png" height="20"/> UA 60 SFO-MEL |
